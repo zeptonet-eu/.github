@@ -12,7 +12,7 @@ A Rails application with:
   - Authorization code and client credentials flows.
   - PKCE (Proof Key for Code Exchange) for public clients (like the CLI).
 
-CLI on the host machines
+## CLI on the host machines
 
 A Go application with:
 
